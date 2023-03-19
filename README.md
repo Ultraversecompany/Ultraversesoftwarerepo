@@ -16,6 +16,7 @@ Podras encontrar las releases en la parte derecha de la pantalla o en "Releases"
 # Imagenes despues de la optimizacion ya completada
 - Esto solo esta disponible si instalas el sistema desatendido desde el lanzador
 
+[!test]
 (https://raw.github.com/Ultraversecompany/Ultraversesoftwarerepo/blob/main/Sources/disk.png)
 
  # Inicializacion e instalacion de sistema desatendido
