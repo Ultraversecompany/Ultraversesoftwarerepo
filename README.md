@@ -8,4 +8,4 @@ Este repositorio contiene de forma organizada los paquetes de instalacion de Ult
 - Intel Stick USB HW x64 o ARM64 ✅
 
 Podras encontrar las releases en la parte derecha de la pantalla o en "Releases" junto con el nombre y version.
-Nota, Estas mencionadas estaran disponibles el domingo 19 de marzo a las 06:15 AM (UTC-0300)
+ - Nota, Estas mencionadas estaran disponibles el domingo 19 de marzo a las 06:15 AM (UTC-0300)
