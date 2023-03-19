@@ -16,7 +16,7 @@ Podras encontrar las releases en la parte derecha de la pantalla o en "Releases"
 # Imagenes despues de la optimizacion ya completada
 - Esto solo esta disponible si instalas el sistema desatendido desde el lanzador
 
-<img src="https://raw.github.com/Ultraversecompany/Ultraversesoftwarerepo/blob/main/Sources/disk.png">
+<img src="https://raw.githubusercontent.com/Ultraversecompany/Ultraversesoftwarerepo/main/Sources/disk.png">
 
  # Inicializacion e instalacion de sistema desatendido
  - Si planeas formatear tu sistema e instalar esta version optimizada tal y como se ve en la imagen, puedes comenzar por grabar el archivo ISO a tu unidad de disco CD-RW o DVD-RW, a unidad USB o incluso hasta un disco duro con la herramienta Rufus.
